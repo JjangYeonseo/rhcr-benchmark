@@ -1,0 +1,4 @@
+"Method","Goals","PlanCalls","MeanPlanMs","MaxPlanMs","FailedCalls"
+"pbs_sipp_seed0","42","20","1.284","10.624","0"
+"pbs_astar_seed0","33","20","0.538","1.71","0"
+"ecbs_sipp_seed0","36","20","0.611","6.954","0"

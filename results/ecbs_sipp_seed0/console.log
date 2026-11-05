@@ -1,0 +1,71 @@
+*** Loading map ***
+Map size: 33x46 with 480 endpoints and 192 home stations.
+Done! (0 s)
+*** PreProcessing map ***
+Done! (0 s)
+*** Simulating 0 ***
+Randomly generating initial locations
+Timestep 0
+ECBS:Succeed,0.000355,0,0,266,917,256,256,26.6,0,10
+0 tasks has been finished
+Timestep 5
+ECBS:Succeed,0.000232,0,0,216,728,206,206,21.6,0,10
+0 tasks has been finished
+Timestep 10
+ECBS:Succeed,0.000227,0,0,203,653,193,193,20.3,0,10
+2 tasks has been finished
+Timestep 15
+ECBS:Succeed,0.000221,0,0,229,716,219,219,22.9,0,10
+4 tasks has been finished
+Timestep 20
+ECBS:Succeed,0.000223,0,0,218,676,208,208,21.8,0,10
+1 tasks has been finished
+Timestep 25
+ECBS:Succeed,0.006954,0,0,196,637,186,184,19.6,0,10
+1 tasks has been finished
+Timestep 30
+ECBS:Succeed,0.000366,1,2,229,739,164,162,17.4,1,10
+2 tasks has been finished
+Timestep 35
+ECBS:Succeed,0.000295,0,0,217,655,180,175,19,0,10
+3 tasks has been finished
+Timestep 40
+ECBS:Succeed,0.000252,0,0,211,687,199,195,20.9,0,10
+3 tasks has been finished
+Timestep 45
+ECBS:Succeed,0.000292,0,0,190,607,174,170,18.4,0,10
+1 tasks has been finished
+Timestep 50
+ECBS:Succeed,0.000244,0,0,217,697,194,190,20.4,0,10
+2 tasks has been finished
+Timestep 55
+ECBS:Succeed,0.000405,0,0,204,652,193,191,20.3,0,10
+3 tasks has been finished
+Timestep 60
+ECBS:Succeed,0.000224,0,0,223,719,213,213,22.3,0,10
+2 tasks has been finished
+Timestep 65
+ECBS:Succeed,0.000322,1,2,274,879,196,195,20.6,1,10
+1 tasks has been finished
+Timestep 70
+ECBS:Succeed,0.000252,0,0,231,760,222,219,23.2,0,10
+3 tasks has been finished
+Timestep 75
+ECBS:Succeed,0.000309,0,0,266,861,250,246,26,0,10
+2 tasks has been finished
+Timestep 80
+ECBS:Succeed,0.000244,0,0,212,707,202,198,21.2,0,10
+0 tasks has been finished
+Timestep 85
+ECBS:Succeed,0.000299,0,0,236,759,207,196,21.7,0,10
+2 tasks has been finished
+Timestep 90
+ECBS:Succeed,0.000249,0,0,216,706,208,204,21.8,0,10
+3 tasks has been finished
+Timestep 95
+ECBS:Succeed,0.000261,0,0,202,668,193,192,20.3,0,10
+1 tasks has been finished
+
+Done!
+*** Saving 0 ***
+Done! (0 s)
